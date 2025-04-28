@@ -41,10 +41,13 @@ The goal of this project is to gain practical experience in developing a simple 
     User Authentication: providing secure login and registration processes.
 
 ## Primary Pages Overview
-     Page	                                Purpose
-    Property Listing View                Displays multiple property cards with essential information and images
-    Listing Detailed View                Provides extensive details about a selected property
-    Simple Checkout View                 Facilitates booking by selecting dates, guests, and confirming details
+
+| Page | Purpose |
+| --- | --- |
+| **Property Listing View** | Displays multiple property cards with essential information and images. |
+| **Listing Detailed View** | Provides extensive details about a selected property, including amenities and location. |
+| **Simple Checkout View** | Facilitates booking by allowing users to select dates, number of guests, and confirm reservation details. |
+
 
 ## Importance of User-Friendly Design in a Booking System
 
@@ -69,3 +72,17 @@ The goal of this project is to gain practical experience in developing a simple 
     Collaboration: Clear specifications improve communication between designers, developers, and stakeholders.
 
     Accessibility: Proper font sizes, weights, and color contrasts enhance usability for all users.
+
+## Project Roles and Responsibilities:
+   ## Team Roles and Contributions
+
+| Role | Key Responsibilities | Contribution to Project Success |
+| --- | --- | --- |
+| **Project Manager (PM)** | Oversees project execution, manages timelines, budget, resources, facilitates team communication, mitigates risks. | Ensures the project stays on track, meets deadlines, and aligns with business goals. |
+| **Frontend Developers** | Implement UI/UX designs using HTML, CSS, JavaScript, React with TypeScript, integrate APIs, ensure responsiveness and performance. | Deliver a seamless, visually appealing, and interactive user experience. |
+| **Backend Developers** | Develop server-side logic, manage databases (MySQL), build APIs (e.g., Django REST), ensure data security and server optimization. | Enable smooth, reliable communication between frontend and backend; handle bookings and user data securely. |
+| **Designers** | Create wireframes, mockups, visual layouts; ensure brand consistency; collaborate with developers; conduct usability testing. | Craft an intuitive, attractive interface that improves user engagement and satisfaction. |
+| **QA/Testers** | Develop and run manual/automated tests, identify bugs, verify fixes, ensure quality standards are met before launch. | Guarantee a bug-free, reliable system that works as intended for users. |
+| **DevOps Engineers** | Automate deployments, manage server and cloud infrastructure, implement CI/CD pipelines, monitor application performance. | Support smooth, continuous delivery and high system uptime, ensuring users always have access. |
+| **Product Owner (PO)** | Define the product vision, prioritize features, maintain the product backlog, liaise with stakeholders and the dev team. | Aligns development with user needs and business objectives, ensuring the product delivers real value. |
+| **Scrum Master** | Facilitate Agile practices, organize Scrum ceremonies (standups, retrospectives), remove team obstacles, coach Agile principles. | Maintain team productivity, ensure iterative improvement, and help deliver the product efficiently. |
