@@ -57,3 +57,15 @@ The goal of this project is to gain practical experience in developing a simple 
     Improves Accessibility: A user-friendly design caters to different types of users, including those with disabilities, ensuring inclusiveness.
 
     Boosts Customer Satisfaction: Easy navigation and clear steps provide a pleasant user experience, encouraging repeat business and positive reviews.
+
+## Color styles, Typography (font family, font weight, font size)
+## Importance of identifying design properties of a mock up design.
+    Consistency: It ensures a unified look and feel across all screens and components.
+
+    Efficiency: It makes development faster because developers know exactly what styles to implement.
+
+    Scalability: It is easier to maintain or update designs without inconsistencies.
+
+    Collaboration: Clear specifications improve communication between designers, developers, and stakeholders.
+
+    Accessibility: Proper font sizes, weights, and color contrasts enhance usability for all users.
