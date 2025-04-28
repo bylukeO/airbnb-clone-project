@@ -86,3 +86,23 @@ The goal of this project is to gain practical experience in developing a simple 
 | **DevOps Engineers** | Automate deployments, manage server and cloud infrastructure, implement CI/CD pipelines, monitor application performance. | Support smooth, continuous delivery and high system uptime, ensuring users always have access. |
 | **Product Owner (PO)** | Define the product vision, prioritize features, maintain the product backlog, liaise with stakeholders and the dev team. | Aligns development with user needs and business objectives, ensuring the product delivers real value. |
 | **Scrum Master** | Facilitate Agile practices, organize Scrum ceremonies (standups, retrospectives), remove team obstacles, coach Agile principles. | Maintain team productivity, ensure iterative improvement, and help deliver the product efficiently. |
+
+## UI Component Patterns
+
+## Core Components
+
+| **Component**       | **Description**                                                                                                                                                     |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Navbar**          | A top navigation bar that provides links to the main sections such as Home, Listings, and Account/Login. It ensures users can easily navigate across the platform.    |
+| **Property Card**   | A reusable card component that displays a property's image, title, brief description, and price. It allows for a clean and consistent presentation of multiple listings in the Property Listing View. |
+| **Footer**          | A footer section displayed at the bottom of every page containing useful links like About, Contact, Privacy Policy, and social media icons. It improves site structure and accessibility. |
+| **Search Bar**      | A central search feature for users to find properties based on location, dates, and guest count. This allows users to quickly filter and find relevant listings.       |
+| **Date Picker**     | A calendar-based date picker that lets users select check-in and check-out dates for their stay, integrated within the search functionality.                          |
+| **Property Filters**| Filters to help users narrow down property searches based on criteria like price range, number of rooms, amenities, etc.                                           |
+| **Listing Grid**    | A grid layout that displays property cards in rows and columns, providing a structured view of multiple listings on the search results or home page.                |
+| **Rating Filter**    | A filter to show properties based on user ratings (e.g., 4 stars and above).                                                                                       |
+| **Map Integration**  | A map view showing the location of available properties, allowing users to visually explore and filter by location.                                                 |
+| **Property Details** | A detailed view of the selected property, including full descriptions, images, amenities, availability, and booking options.                                          |
+| **Wishlist/Favorites**| A feature that lets users save and revisit their favorite properties for later consideration.                                                                     |
+| **Host Profile**     | A section dedicated to showing information about the property host, such as their ratings, reviews, and other listings they may have.                             |
+| **Review Section**   | A section where users can read reviews and ratings from previous guests, providing credibility and social proof for properties.                                      ||
