@@ -20,10 +20,11 @@ The goal of this project is to gain practical experience in developing a simple 
     Search Functionality: Enable users to search for properties based on various criteria (location, price, availability).
     User Authentication: Secure login and registration for users.
 ## Technologies Used 💻
+Tech Stack
 
-    Frontend: React with TypeScript, Next.js for server-side rendering and static site generation, TailwindCSS for styling.
-    Backend: Python, Django, and MySQL (for illustration purposes; the backend is not the primary focus).
-    Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
+    Frontend: HTML, CSS, JavaScript (React or similar framework)
+    Version Control: Git and GitHub
+    Design Tools: Figma for UI/UX design
 
 ## UI/UX Design Planning:
 ### Design Goals:
